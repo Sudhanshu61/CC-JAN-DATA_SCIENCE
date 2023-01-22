@@ -1,2 +1,2 @@
 # CC-JAN-DATA_SCIENCE
- This project is been made using python.
+ The two projects are Fake news precdiction and Sentiment Analysis
